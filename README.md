@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Кяв'ярня- «Мілан»</title>
-  
+<style type="text/css">
 a{
-color: #brown;
+color: #fff;
 text-decoration: none;
 }
 html{
-background: #white;
+background: #FFF8CC;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;
@@ -26,22 +26,36 @@ h1{
 margin-top: 0;
 }
 h1, p{
-color: #brown;
+color: #006064;
 }
 img{
 border: 0;
 }
 .header{
 width: 100%;
-min-width: 360px;
+min-width: 460px;
 max-width: 960px;
-margin: 0 auto 15px;
-padding: 15px 0 10px;
+margin: 0 auto 30px;
+padding: 30px 0 10px;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 box-sizing: border-box;
-
+}
+.logo{
+font-size: 1.5rem;
+color: #fff;
+text-decoration: none;
+margin: 5px 0 0 5px;
+justify-content: center;
+align-items: center;
+display: flex;
+flex: none;
+align-items: center;
+background: #839FFF;
+width: 130px;
+height: 50px;
+}
 .nav{
 margin: -5px 0 0 -5px;
 display: flex;
@@ -52,7 +66,7 @@ background: #BDC7FF;
 width: 130px;
 height: 50px;
 font-size: 1.5rem;
-color: #brown;
+color: #fff;
 text-decoration: none;
 display: flex;
 margin: 5px 0 0 5px;
@@ -67,7 +81,7 @@ background: #FFDB89;
 
 .main{
 width: 100%;
-min-width: 360px;
+min-width: 460px;
 max-width: 960px;
 margin: auto;
 flex: auto;
@@ -76,17 +90,17 @@ box-sizing: border-box;
 .box{
 font-size: 1.25rem;
 line-height: 1.5;
-margin: 0 0 40px -25px;
+margin: 0 0 40px -50px;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
 }
 .box-base{
-margin-left: 25px;
+margin-left: 50px;
 flex: 1 0 430px;
 }
 .box-side{
-margin-left: 25px;
+margin-left: 50px;
 font: none;
 }
 .box-img{
@@ -94,7 +108,7 @@ max-width: 100%;
 height: auto;
 }
 .content{
-margin-bottom: 15px;
+margin-bottom: 30px;
 display: flex;
 flex-wrap: wrap;
 }
@@ -102,13 +116,13 @@ flex-wrap: wrap;
 flex: 1 1 200px;
 }
 .banner{
-background: #white;
+background: #FFDB89;
 width: 100%;
 min-width: 100px;
 min-height: 200px;
 font-size: 3rem;
-color: #brown;
-margin: 0 0 15px 0;
+color: #fff;
+margin: 0 0 30px 0;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -118,7 +132,7 @@ margin: 0 0 30px 30px;
 flex: 1 1 200px;
 }
 .comments{
-margin: 0 0 15px 20px;
+margin: 0 0 30px 30px;
 flex: 1 1 200px;
 }
 .comment{
@@ -132,16 +146,16 @@ flex: none;
 flex: auto;
 }
 .comment-avatar{
-background: #white;
+background: #FFA985;
 width: 50px;
 height: 50px;
 }
 .footer{
-background: #brown;
+background: #FF3366;
 width: 100%;
-max-width: 360px;
+max-width: 960px;
 min-width: 460px;
-color: #brown;
+color: #fff;
 margin: auto;
 padding: 15px;
 box-sizing: border-box;
@@ -149,12 +163,12 @@ box-sizing: border-box;
 
 @media screen and  (max-width: 800px) {
 .banners{
-margin-left: -15px;
+margin-left: -30px;
 display: flex;
 flex-basis: 100%;
 }
 .banner{
-margin-left: 15px;
+margin-left: 30px;
 }
 .posts{
 margin-left: 0;
