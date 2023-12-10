@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="uk" >
+<html lang="uk","us">
 <head>
 <meta charset="UTF-8">
 <title>Кяв'ярня- "Мілан"</title>
 <style type="text/css">
 a{
-color: #brown;
+color: #fff;
 text-decoration: none;
 }
 html{
-background: #black;
+background: #FFF8CC;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;
@@ -26,17 +26,17 @@ h1{
 margin-top: 0;
 }
 h1, p{
-color: #white;
+color: #006064;
 }
 img{
 border: 0;
 }
 .header{
 width: 100%;
-min-width: 360px;
-max-width: 1060px;
-margin: 0 auto 15px;
-padding: 15px 0 10px;
+min-width: 460px;
+max-width: 960px;
+margin: 0 auto 30px;
+padding: 30px 0 10px;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
@@ -44,7 +44,7 @@ box-sizing: border-box;
 }
 .logo{
 font-size: 1.5rem;
-color: #brown;
+color: #fff;
 text-decoration: none;
 margin: 5px 0 0 5px;
 justify-content: center;
@@ -52,7 +52,7 @@ align-items: center;
 display: flex;
 flex: none;
 align-items: center;
-background: #black;
+background: #839FFF;
 width: 130px;
 height: 50px;
 }
@@ -62,11 +62,11 @@ display: flex;
 flex-wrap: wrap;
 }
 .nav-item{
-background: #black;
+background: #BDC7FF;
 width: 130px;
 height: 50px;
 font-size: 1.5rem;
-color: #brown;
+color: #fff;
 text-decoration: none;
 display: flex;
 margin: 5px 0 0 5px;
@@ -76,13 +76,13 @@ align-items: center;
 .sqr{
 height: 300px;
 width: 300px;
-background: #white;
+background: #FFDB89;
 }
 
 .main{
 width: 100%;
-min-width: 360px;
-max-width: 1060px;
+min-width: 460px;
+max-width: 960px;
 margin: auto;
 flex: auto;
 box-sizing: border-box;
@@ -116,12 +116,12 @@ flex-wrap: wrap;
 flex: 1 1 200px;
 }
 .banner{
-background: #brown;
+background: #FFDB89;
 width: 100%;
 min-width: 100px;
 min-height: 200px;
 font-size: 3rem;
-color: #brown;
+color: #fff;
 margin: 0 0 30px 0;
 display: flex;
 justify-content: center;
@@ -146,16 +146,16 @@ flex: none;
 flex: auto;
 }
 .comment-avatar{
-background: #brown;
+background: #FFA985;
 width: 50px;
 height: 50px;
 }
 .footer{
-background: #white;
+background: #FF3366;
 width: 100%;
 max-width: 960px;
 min-width: 460px;
-color: #black;
+color: #fff;
 margin: auto;
 padding: 15px;
 box-sizing: border-box;
@@ -217,9 +217,9 @@ LOGO
 </div>
 <div class="content">
 <div class="banners">
-<div class="banner">Баннер 1</div>
-<div class="banner">Баннер 2</div>
-<div class="banner">Баннер 3</div>
+<div class="banner">Contact us</div>
+<div class="banner">Our staff</div>
+<div class="banner">Coffe</div>
 </div>
 <div class="posts"  id="posts">
 <div class="post">
