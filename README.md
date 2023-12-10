@@ -2,7 +2,7 @@
 <html lang="uk","us">
 <head>
 <meta charset="UTF-8">
-<title>Кяв'ярня- "Мілан"</title>
+<title>Кяв'ярня- «Мілан»</title>
 <style type="text/css">
 a{
 color: #fff;
@@ -197,8 +197,8 @@ margin: 0;
 LOGO
 </a>
 <nav class="nav">
-<a href="#posts" class="nav-item">Головна</a>
-<a href="#comments" class="nav-item">Коментарі</a>
+<a href="#posts" class="nav-item">В чому унікальність нашої кав'ярні?</a>
+<a href="#comments" class="nav-item">«Мілан»</a>
 <a href="#posts" class="nav-item">Спілкування</a>
 </nav>
 
@@ -206,8 +206,9 @@ LOGO
 <main class="main">
 <div class="box">
 <div class="box-base">
-<h1>Мета нащої кав'ярні</h1>
-<p>Головна мета нашої кав'ярні "Мілан"- подарувати незабутні враження від вищуканої кави зробленної з відбврних сортів кавових зерен. Вибираючи нас Ви маєте змогу відпдчити в "Міланській кав'ярні". Долучайтеся до нас, ми не підведимо Вас!</p>
+<h1>В чому унікальність нашої кав'ярні?</h1>
+<p>Кав'ярня «Мілан» спрямована на створення унікального та індивідуального простору саме для Вас! Наша неперевершеність в швидкості, якості та висококласному обслуговуванні. Справжня італійська атмосфера нашого закладу поєднана з відбірними кавовими та чайними напоями, зробить настрій на весь день. Відпочинок чи робочий день, починайте з нами не пожалієте!</p>
+  <center><img src="Без названия (6).jpg" width="30%"/></center>
 </div>
 <div class="box-side">
 <div class="sqr">
@@ -217,22 +218,24 @@ LOGO
 </div>
 <div class="content">
 <div class="banners">
-<div class="banner">Contact us</div>
-<div class="banner">Our staff</div>
-<div class="banner">Coffe</div>
+<div class="banner">Зв'язок з нами</div>
+  <div class="banner">Наша локація</div>
+<div class="banner">«Мілан»</div>
 </div>
 <div class="posts"  id="posts">
 <div class="post">
-<h1>Coffee</h1>
-<p>Coffee is one of the most stable products on the consumer goods market. Its consumption is characterized by a high level of brand loyalty: only in the last resort will a product lover betray his favorite brand and switch to a cheaper option. Even during the crisis, the share of consumers who changed their favorite coffee to a cheaper one was insignificant. Every year, the coffee market is replenished with new capital, the size of which reaches 200-300 million dollars. And it's not because coffee is getting more expensive or cheaper: it's just that more and more people are drinking it. The "Milan" coffee shop is presented in such a way that the visitor is offered several types of coffee, which are prepared quickly and qualitatively. The coffee shop will deal with the sale of coffee-rich drinks. Drinks will be of high quality and brewed according to the original recipe.</p>
+<h1>«Мілан»</h1>
+<p>Протягом останніх років кав'ярні стали звичайною частиною нашого з Вами життя. Наша кав'ярня «Мілан» створена з метою надати Вам унікальний кавовий та кулінарський досвід «Міланького стилю». Ми зосереджени на вишуканих смаках та затишній атмосфері, наша кав'ярня пропонує не лише напої високої якості, але й враження, які залишають невимовні спогади. Наша місія - перетворити кожну Вашу кавову зустріч у вишуканий ритуал та створювати для Вас неперевершені задоволення від вишуканого кавового досвіду.</p>
+  <center><img src="photo_2023-12-10_18-57-36.jpg"/></center>
 </div>
 <div class="post">
-<h1>Our history</h1>
-<p>The history of the development of the "Milan" enterprise: "Milan" began its activity in 2023 as a small coffee shop with signature coffee and Italian desserts. We offer residents and guests of the city a completely new style of coffee shop. This is a unique coffee shop that allows you to enjoy exclusive desserts with high-quality drinks in a comfortable and high-class place, where you can socialize, relax and work. Growth prospects: Plans to expand the brand include opening new branches, expanding the menu and introducing concept innovations. Cafe "Milan" is aimed at constant improvement and response to the changing needs of customers.</p>
+<h1>Історія кави. Поява еспрессо, як кавового напою.</h1>
+<p>Фактично рецептура еспресо з’явилась із виникненням самих кавових машин, які готують порційні напої. Це відбулось на початку ХХ ст. в Мілані. Моделі кавових машин Беццара та Павоні мали один суттєвий недолік: прямий паровий тиск спалював кавові масла, що не найкраще впливало на смакові якості напою. Лише з появою технології подачі гарячої води під тиском в 1947 році з’явилась еспресо в її класичному вигляді.</p>
 </div>
 <div class="post">
 <h1>Menue "Milan"</h1>
-<p>Menu of our cafe: Espresso, Ristretto, Doppio, Lungo, Americano, Latte, Cappuccino Macchiato, Flat white, Viennese coffee, Ruff coffee, Frappe, Glasse, Affogato, Irish or Irish coffee, Green, black and herbal tea, Carbonated and non-carbonated water, Signature drinks, Hot chocolate, Cocoa. And other delicacies.</p>
+<p>Menu of our cafe: Espresso, Ristretto, Doppio, Lungo, Americano, Latte, Cappuccino Macchiato, Flat white, Viennese coffee, Ruff coffee, Frappe, Glasse, Affogato, Irish or Irish coffee, Green, black and herbal tea, Carbonated and non-carbonated water, Signature drinks, Hot chocolate, Cocoa. And other delicacies.Цікавий факт, що приводом для його винаходу, стали співробітники його компанії, які витрачали занадто багато часу на приготування кави під час перерв. Потім в 1905 році, він продав патент на кавомашини Десідеріо Павоні. Сам Павоні придумав готувати еспресо з більш низькою температурою води, і при певному тиску, що дозволило зробити каву більш м'яким і насиченим. Він був першим, хто запустив масове виробництво кавоварок для кафе.</p>
+  <center><img src="6620eac542759d35d5cc0ad1095de447.jpg" width="30%"/></center>
 </div>
 </div>
 <div class="comments"  id="comments">
@@ -254,8 +257,8 @@ LOGO
 </div>
 </div>
 <div class="comment-base">
-<h1 class="comment-title">The additional menu</h1>
-<p>White tea (Chinese: bai cha) is rare and expensive, consists exclusively of tea buds (tips). Yellow tea (Chinese - huan cha) is almost like green tea, but before drying, it goes through a closed "swelling" procedure. Green tea (English green, Chinese Lui cha) in its dry form has a green color (from light green to dark green, depending on the production features), the infusion is a dull yellowish or greenish color, the aroma clearly has a "herbal" note. Red tea (English oolong, Chinese Oolong), this name is found in Russia, in China it is sometimes called "turquoise" or "blue-green". Black tea (English black, Chinese Hong cha, also known as red in China) is the most famous and popular. Puerh (Chinese Hei cha, "black tea"). It is made from tips, and from mature leaves, from old trees. Flavored tea. Fruit teas. The basis of these drinks is tea, but at the same time there are significant additions of fruit and other inclusions. Herbal teas (tiza). Tiza - from the French word "Tisane", means any herbal infusion. Instant teas. These teas in the form of granules can be diluted with both hot and cold water. Tea extracts that come from tea juice are a very expensive and exotic pleasure. Karkade is one of the most famous non-tea teas in Ukraine, it is the dried flowers of the Sudan rose (hibiscus flower). Mate - sometimes "Paraguayan tea" or "Brazilian tea" - this Latin American version of tea is gaining more and more popularity these days. Rooibos is tea from a red shrub, sometimes called Bushman tea.</p>
+<h1 class="comment-title">Вибір кави для еспресо</h1>
+<p>Найпоширенішими є кавові зерна трьох сортів – це арабіка, робуста і ліберіка. Причому в упаковці може бути як кава виключно одного сорту, так і купажі, тобто суміші різних сортів в різних пропорціях. Найчастіше зернова кава еспресо це або чиста арабіка, або суміш арабіки та робусти. Ліберіка ж мало поширена і найчастіше зустрічається лише як один із компонентів купажу – її додають в невеликій кількості для посилення аромату кави.</p>
 </div>
 </div>
 <div class="comment">
@@ -265,8 +268,8 @@ LOGO
 </div>
 </div>
 <div class="comment-base">
-<h1 class="comment-title">"Milan"</h1>
-<p>We always inspire you, and we will support you wherever you are: work, rest or difficulties. You will be served by our professional baristas, waiters and specialized confectioners. If you want to share your breakfast or dinner with us, we will give you a real taste of "Milan style". The environmental assessment of the "Milan" coffee shop includes: 1. Load on the environment: production emissions and waste, as well as disposal costs are taken into account. 2. Procedures for environmental protection: procedures have been developed and implemented to reduce the impact on nature, in particular, efficient use of resources and limitation of emissions. 3. Environmental quotas: submission of requests for ecological quotas meets the standards and requirements determined during the environmental impact assessment.</p>
+<h1 class="comment-title"> «Мілан»</h1>
+<p>Кращий напій готується з зерен бразильської арабіки. Сучасним стандартом якості є використання свіжообсмаженої кави. Класичний рецепт не має на увазі додавання молока, проте існують інші різновиди цього напою кави з молоком. Що стосується цукру - то в "класиці" прийнято кидати в чашу 1 кубик цукру, не розмішуючи, даючи йому трохи розчинитися перед вживанням. Після того як чашка випита 1-2-3 ковтками, обсяг цукру стікає з дна чашки, даючи обволікаючу солодкість роті і губам, щоб смак напою залишився приємним, не гірким спогадом.Італійський інститут кави дає таке визначення еспресо: напій об'ємом приблизно 25 мілілітрів, що готується гарячою водою (до 96°) під тиском в 9 бар з 7-8 г кави найкращого помелу за 20-30 секунд.</p>
 </div>
 </div>
 </div>
