@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="uk","us">
+<html lang="uk">
 <head>
 <meta charset="UTF-8">
 <title>Кяв'ярня- «Мілан»</title>
   theme: jekyll-theme-minimal
 <style type="text/css">
 a{
-color: #fff;
+color: #brown;
 text-decoration: none;
 }
 html{
@@ -45,7 +45,7 @@ box-sizing: border-box;
 }
 .logo{
 font-size: 1.5rem;
-color: #fff;
+color: #brown;
 text-decoration: none;
 margin: 5px 0 0 5px;
 justify-content: center;
@@ -67,7 +67,7 @@ background: #BDC7FF;
 width: 130px;
 height: 50px;
 font-size: 1.5rem;
-color: #fff;
+color: #brown;
 text-decoration: none;
 display: flex;
 margin: 5px 0 0 5px;
@@ -122,7 +122,7 @@ width: 100%;
 min-width: 100px;
 min-height: 200px;
 font-size: 3rem;
-color: #fff;
+color: #brown;
 margin: 0 0 30px 0;
 display: flex;
 justify-content: center;
@@ -156,7 +156,7 @@ background: #FF3366;
 width: 100%;
 max-width: 960px;
 min-width: 460px;
-color: #fff;
+color: #brown;
 margin: auto;
 padding: 15px;
 box-sizing: border-box;
