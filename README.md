@@ -194,15 +194,6 @@ margin: 0;
 </div>
 <div class="box-side">
 <div class="sqr">
-
-</div>
-</div>
-</div>
-<div class="content">
-<div class="banners">
-<div class="banner">Зв'язок з нами</div>
-  <div class="banner">Наша локація</div>
-<div class="banner">«Мілан»</div>
 </div>
 <div class="posts"  id="posts">
 <div class="post">
