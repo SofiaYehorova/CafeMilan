@@ -26,7 +26,7 @@ h1{
 margin-top: 0;
 }
 h1, p{
-color: #006064;
+color: #brown;
 }
 img{
 border: 0;
