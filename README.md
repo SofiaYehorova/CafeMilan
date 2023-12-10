@@ -5,7 +5,7 @@
 <title>Кяв'ярня- «Мілан»</title>
 <style type="text/css">
 a{
-color: #fff;
+color: #brown;
 text-decoration: none;
 }
 html{
@@ -30,6 +30,12 @@ color: #006064;
 }
 img{
 border: 5;
+  <center><img src="Без названия (6).jpg"/></center>;
+  <center><img src="photo_2023-12-10_18-57-36.jpg"/></center>;
+   <center><img src="6620eac542759d35d5cc0ad1095de447.jpg"/></center>;
+  <center><img src="Без названия (5).jpg"/></center>;
+  <center><img src="Без названия (4).jpg"/></center>;
+  
 }
 .header{
 width: 100%;
@@ -52,7 +58,7 @@ background: #BDC7FF;
 width: 130px;
 height: 50px;
 font-size: 1.5rem;
-color: #fff;
+color: #brown;
 text-decoration: none;
 display: flex;
 margin: 5px 0 0 5px;
@@ -107,7 +113,7 @@ width: 100%;
 min-width: 100px;
 min-height: 200px;
 font-size: 3rem;
-color: #fff;
+color: #brown;
 margin: 0 0 30px 0;
 display: flex;
 justify-content: center;
@@ -141,7 +147,7 @@ background: #FF3366;
 width: 100%;
 max-width: 960px;
 min-width: 460px;
-color: #fff;
+color: #brown;
 margin: auto;
 padding: 15px;
 box-sizing: border-box;
