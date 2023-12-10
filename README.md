@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Кяв'ярня- «Мілан»</title>
+  theme: jekyll-theme-minimal
 <style type="text/css">
 a{
 color: #fff;
@@ -275,7 +276,6 @@ LOGO
 </div>
 </div>
 </main>
-theme: jekyll-theme-minimal
 <footer class="footer"  id="footer">
 </footer>
 </body>
