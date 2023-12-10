@@ -180,7 +180,6 @@ margin: 0;
 </head>
 <body>
 <header class="header">
-</nav>
 
 </header>
 <main class="main">
