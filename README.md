@@ -275,6 +275,7 @@ LOGO
 </div>
 </div>
 </main>
+theme: jekyll-theme-minimal
 <footer class="footer"  id="footer">
 </footer>
 </body>
