@@ -30,12 +30,11 @@ color: #006064;
 }
 img{
 border: 5;
-  <center><img src="Без названия (6).jpg"/></center>;
-  <center><img src="photo_2023-12-10_18-57-36.jpg"/></center>;
-   <center><img src="6620eac542759d35d5cc0ad1095de447.jpg"/></center>;
-  <center><img src="Без названия (5).jpg"/></center>;
-  <center><img src="Без названия (4).jpg"/></center>;
-  
+  <center><img src="Без названия (6).jpg"/></center>
+  <center><img src="photo_2023-12-10_18-57-36.jpg"/></center>
+   <center><img src="6620eac542759d35d5cc0ad1095de447.jpg"/></center>
+  <center><img src="Без названия (5).jpg"/></center>
+  <center><img src="Без названия (4).jpg"/></center>
 }
 .header{
 width: 100%;
