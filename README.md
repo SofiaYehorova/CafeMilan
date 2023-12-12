@@ -42,25 +42,6 @@ flex-wrap: wrap;
 justify-content: space-between;
 box-sizing: border-box;
 }
-.logo{
-font-size: 1.5rem;
-color: #fff;
-text-decoration: none;
-margin: 5px 0 0 5px;
-justify-content: center;
-align-items: center;
-display: flex;
-flex: none;
-align-items: center;
-background: #839FFF;
-width: 130px;
-height: 50px;
-}
-.nav{
-margin: -5px 0 0 -5px;
-display: flex;
-flex-wrap: wrap;
-}
 .nav-item{
 background: #BDC7FF;
 width: 130px;
@@ -270,11 +251,6 @@ margin: 0;
 <p>Ці сорти кави мають свої унікальні смакові властивості, які залежать від регіону вирощування, кліматичних умов, висоти, типу грунту та інших факторів. Люди вибирають кавові зерна відповідно до своїх смакових уподобань.</p>
 </div>
 </div>
-<div class="comments"  id="comments">
-<div class="comment">
-<div class="comment-side">
-<div class="comment-avatar">
-
 </div>
 </div>
 <div>
