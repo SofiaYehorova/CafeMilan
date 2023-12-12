@@ -93,21 +93,6 @@ margin-bottom: 30px;
 display: flex;
 flex-wrap: wrap;
 }
-.banners{
-flex: 1 1 200px;
-}
-.banner{
-background: #FFDB89;
-width: 100%;
-min-width: 100px;
-min-height: 200px;
-font-size: 3rem;
-color: #fff;
-margin: 0 0 30px 0;
-display: flex;
-justify-content: center;
-align-items: center;
-}
 .posts{
 margin: 0 0 30px 30px;
 flex: 1 1 200px;
@@ -122,16 +107,6 @@ margin: auto;
 padding: 15px;
 box-sizing: border-box;
 }
-
-@media screen and  (max-width: 800px) {
-.banners{
-margin-left: -30px;
-display: flex;
-flex-basis: 100%;
-}
-.banner{
-margin-left: 30px;
-}
 .posts{
 margin-left: 0;
 }
@@ -139,13 +114,6 @@ margin-left: 0;
 @media screen and  (max-width: 600px) {
 .content{
 display: block;
-}
-.banners{
-margin: 0;
-display: block;
-}
-.banner{
-margin-left: 0;
 }
 .posts{
 margin: 0;
@@ -235,6 +203,7 @@ margin: 0;
 
 </div>
 </div>
+<div class="post">
 <h1>Чайні напої</h1>
 <h1>Також в нашій кав’ярні представлено декілька таких різновидів чаю.</h1>
 <p>Білий чай (кит. бай ча) – рідкисний та дорогий, складається виключно з чайних бруньок(тіпсів).  У сухому вигляді має світлий, жовтуватий колір. Оскільки листя не піддаються скручуванню, чаїнки досить великі й легкі, у воді вони швидко розкриваються. Настій жовтувато-зелений, темніший, ніж у зелених чаїв, має квітковий аромат, солодкуватий смак і залишає приємний, солодкуватий присмак. Білий чай дуже чутливий до режиму заварювання. Білий чай дуже дорогий, купити чай такої якості може собі дозволити не кожен. Наприклад: чай Срібні Голки і Біла Півоніяю.</p>
