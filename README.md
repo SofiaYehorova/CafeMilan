@@ -23,15 +23,6 @@ display: flex;
 flex-direction: column;
 flex: auto;
 }
-h1{
-margin-top: 0;
-}
-h1, p{
-color: #006064;
-}
-img{
-border: 0;
-}
 .header{
 width: 100%;
 min-width: 460px;
