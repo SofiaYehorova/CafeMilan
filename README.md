@@ -112,25 +112,6 @@ align-items: center;
 margin: 0 0 30px 30px;
 flex: 1 1 200px;
 }
-.comments{
-margin: 0 0 30px 30px;
-flex: 1 1 200px;
-}
-.comment{
-display: flex;
-}
-.comment-side{
-padding-right: 20px;
-flex: none;
-}
-.comment-base{
-flex: auto;
-}
-.comment-avatar{
-background: #FFA985;
-width: 50px;
-height: 50px;
-}
 .footer{
 background: #FF3366;
 width: 100%;
