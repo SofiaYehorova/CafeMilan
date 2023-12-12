@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru" >
+<html lang="uk">
 <head>
 <meta charset="UTF-8">
 <title>Кяв'ярня- «Мілан»</title>
@@ -42,7 +42,20 @@ flex-wrap: wrap;
 justify-content: space-between;
 box-sizing: border-box;
 }
-
+.logo{
+font-size: 1.5rem;
+color: #fff;
+text-decoration: none;
+margin: 5px 0 0 5px;
+justify-content: center;
+align-items: center;
+display: flex;
+flex: none;
+align-items: center;
+background: #839FFF;
+width: 130px;
+height: 50px;
+}
 .nav{
 margin: -5px 0 0 -5px;
 display: flex;
