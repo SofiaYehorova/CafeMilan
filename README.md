@@ -51,7 +51,6 @@ height: 300px;
 width: 300px;
 background: #FFDB89;
 }
-
 .main{
 width: 100%;
 min-width: 460px;
