@@ -6,7 +6,7 @@
 <title>Кяв'ярня- «Мілан»</title>
 <style type="text/css">
 a{
-color: #fff;
+color: #FAEBD7;
 text-decoration: none;
 }
 html{
@@ -38,7 +38,7 @@ background:#8B4513;
 width: 100%;
 max-width: 960px;
 min-width: 460px;
-color: #fff;
+color: #FAEBD7;
 margin: auto;
 padding: 15px;
 }
@@ -55,11 +55,11 @@ margin: auto;
 flex: auto;
 }
 .nav-item{
-background: #BDC7FF;
+background: #8B4513;
 width: 130px;
 height: 50px;
 font-size: 1.5rem;
-color: #fff;
+color: #FAEBD7;
 text-decoration: none;
 display: flex;
 margin: 5px 0 0 5px;
