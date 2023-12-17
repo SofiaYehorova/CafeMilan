@@ -84,16 +84,6 @@ flex-wrap: wrap;
 margin: 0 0 30px 30px;
 flex: 1 1 200px;
 }
-.footer{
-background:#8B4513;
-width: 100%;
-max-width: 960px;
-min-width: 460px;
-color: #fff;
-margin: auto;
-padding: 15px;
-box-sizing: border-box;
-}
 .posts{
 margin-left: 0;
 }
