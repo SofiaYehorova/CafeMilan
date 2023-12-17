@@ -33,6 +33,15 @@ display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 }
+.footer{
+background:#8B4513;
+width: 100%;
+max-width: 960px;
+min-width: 460px;
+color: #fff;
+margin: auto;
+padding: 15px;
+}
 .sqr{
 height: 300px;
 width: 300px;
@@ -44,6 +53,18 @@ min-width: 460px;
 max-width: 960px;
 margin: auto;
 flex: auto;
+}
+.nav-item{
+background: #BDC7FF;
+width: 130px;
+height: 50px;
+font-size: 1.5rem;
+color: #fff;
+text-decoration: none;
+display: flex;
+margin: 5px 0 0 5px;
+justify-content: center;
+align-items: center;
 }
 .content{
 margin-bottom: 30px;
