@@ -34,18 +34,6 @@ flex-wrap: wrap;
 justify-content: space-between;
 box-sizing: border-box;
 }
-.nav-item{
-background: #BDC7FF;
-width: 130px;
-height: 50px;
-font-size: 1.5rem;
-color: #fff;
-text-decoration: none;
-display: flex;
-margin: 5px 0 0 5px;
-justify-content: center;
-align-items: center;
-}
 .sqr{
 height: 300px;
 width: 300px;
