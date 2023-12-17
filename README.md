@@ -47,14 +47,6 @@ margin: auto;
 flex: auto;
 box-sizing: border-box;
 }
-.box{
-font-size: 1.25rem;
-line-height: 1.5;
-margin: 0 0 40px -50px;
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-}
 .content{
 margin-bottom: 30px;
 display: flex;
