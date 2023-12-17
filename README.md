@@ -55,10 +55,6 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;
 }
-.box-base{
-margin-left: 50px;
-flex: 1 0 430px;
-}
 .content{
 margin-bottom: 30px;
 display: flex;
@@ -72,7 +68,7 @@ flex: 1 1 200px;
 margin-left: 0;
 }
 }
-@media screen and  (max-width: 600px) {
+  @media screen and  (max-width: 600px) {
 .content{
 display: block;
 }
