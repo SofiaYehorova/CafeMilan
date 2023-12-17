@@ -59,10 +59,6 @@ justify-content: center;
 margin-left: 50px;
 flex: 1 0 430px;
 }
-.box-side{
-margin-left: 50px;
-font: none;
-}
 .content{
 margin-bottom: 30px;
 display: flex;
