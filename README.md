@@ -32,7 +32,6 @@ padding: 30px 0 10px;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
-box-sizing: border-box;
 }
 .sqr{
 height: 300px;
@@ -45,7 +44,6 @@ min-width: 460px;
 max-width: 960px;
 margin: auto;
 flex: auto;
-box-sizing: border-box;
 }
 .content{
 margin-bottom: 30px;
@@ -73,13 +71,10 @@ margin: 0;
 <header class="header">
 </header>
 <main class="main">
-<div class="box">
-<div class="box-base">
   <center><img src="Каваjpg.jpg" width="50%"/></center>
 <h1>В чому унікальність нашої кав'ярні?</h1>
 <p>Кав'ярня «Мілан» спрямована на створення унікального та індивідуального простору саме для Вас! Наша неперевершеність в швидкості, якості та висококласному обслуговуванні. Справжня італійська атмосфера нашого закладу поєднана з відбірними кавовими та чайними напоями, зробить настрій на весь день. Відпочинок чи робочий день, починайте з нами не пожалієте!</p>
 </div>
-<div class="box-side">
 <div class="sqr">
 </div>
 </div>
